@@ -1,5 +1,8 @@
 ## Hi there 👋
 I'm a Software Developer with an interest in AI.
+
+## My Tech Stack 
+# Programming Languages
 <!--
 **pranaykoppula/pranaykoppula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
